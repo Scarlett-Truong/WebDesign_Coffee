@@ -1,0 +1,30 @@
+@charset "utf-8";
+@font-face{
+	font-family: 'Freestyle Script';
+	src: url(FREESCPT.TTF);
+}
+#title {
+	font-family: "Freestyle Script";
+	font-size: 65px;
+	color: #FFF;
+	padding-top: 20px;
+	padding-left: 50px;
+}
+#gallery_content {
+	margin: 0px;
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 0px;
+	padding-left: 50px;
+}
+#gallery_content table td {
+	text-align: center;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+#gallery_content table {
+	background-color: #2e1308;
+	border: 1px groove #eacc95;
+}
